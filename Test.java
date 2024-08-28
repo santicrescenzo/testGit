@@ -2,10 +2,10 @@
 public class Test {
 
 	public static void main(String[] args) {
-		int a = 2;
-		int b = 3;
+		int sumando = 2;
+		int sumando = 3;
 
-		int resultado = suma(a, b);
+		int resultado = suma(sumando, sumando);
 
 		System.out.println(resultado);
 	}
